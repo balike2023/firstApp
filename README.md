@@ -1,2 +1,2 @@
 # firstApp
-java project
+ my first java project as  a student in PVI
